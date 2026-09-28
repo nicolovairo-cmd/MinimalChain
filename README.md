@@ -1,0 +1,1 @@
+Minimal Chain VST3. CMake explicitly generates JuceHeader.h.
